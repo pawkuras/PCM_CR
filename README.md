@@ -7,7 +7,7 @@ Silesian University in Opava (CZ), Rzeszow University of Technology (PL), Nov 20
 All instructions are present during executing the program on Microsoft Windows platform.<br/>
 Program will return correct results ONLY if matrices will be properly construct pairwise comparison matrices.<br/>
 To be 100% sure, we recommend using our generating functions.<br/>
-Please unpack programm in localization, where Administrator rights are not neccesary to write/load file from.<br/>
+Please unpack program in localization, where Administrator rights are not neccesary to write/load file from.<br/>
 All files will be available in working directory of app.<br/>
 
 Format of properly formatted matrix_load.csv document:<br/>
